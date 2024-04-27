@@ -1,0 +1,6 @@
+[
+    { "id": 1, "contents": "Books", "weight": 5 },
+    { "id": 2, "contents": "Clothes", "weight": 8 },
+    { "id": 3, "contents": "Electronics", "weight": 4 },
+    { "id": 4, "contents": "Kitchen", "weight": 6 }
+]
